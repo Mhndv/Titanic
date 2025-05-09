@@ -94,7 +94,5 @@ This project is a data exploration dashboard built with **Streamlit** and **Plot
 ## 📬 Author
 
 Developed by **Muhannad Alsahaf**  
-📧 Email: your.email@example.com  
-🌐 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
 
 ---
