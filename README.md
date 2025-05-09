@@ -34,8 +34,13 @@ This project is a data exploration dashboard built with **Streamlit** and **Plot
   - Passenger Count by Embarkation Port
   - Correlation Heatmap of Numeric Features
 
-- **🧠 Key Takeaways Section**  
-  Highlights important insights from the analysis.
+- **ScreenShots**
+  <img width="1728" alt="Screenshot 1446-11-11 at 7 06 25 PM" src="https://github.com/user-attachments/assets/a0716fb4-7abf-49c1-8526-208b8c2864bb" />
+<img width="1728" alt="Screenshot 1446-11-11 at 7 06 46 PM" src="https://github.com/user-attachments/assets/0988160b-c436-4aee-b9d8-cd6114f27df1" />
+<img width="1728" alt="Screenshot 1446-11-11 at 7 07 08 PM" src="https://github.com/user-attachments/assets/b8447c18-ae45-48eb-b7e4-8e5d96412048" />
+<img width="1728" alt="Screenshot 1446-11-11 at 7 07 27 PM" src="https://github.com/user-attachments/assets/c06a9846-1539-45fa-8388-69163b5bcacb" />
+<img width="1728" alt="Screenshot 1446-11-11 at 7 07 44 PM" src="https://github.com/user-attachments/assets/6d6bf846-76b1-42c9-aa4d-ac8eb04b540d" />
+
 
 ---
 
