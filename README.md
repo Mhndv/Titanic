@@ -52,7 +52,7 @@ This project is a data exploration dashboard built with **Streamlit** and **Plot
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/titanic-eda-dashboard.git
+   git clone https://github.com/Mhndv/titanic-eda-dashboard.git
    cd titanic-eda-dashboard
    ```
 
