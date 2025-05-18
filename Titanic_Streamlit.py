@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 st.set_page_config(layout="wide")
 
 
-df = pd.read_csv('/Users/mohannedalsahaf/Desktop/Tuwaiq Data Science Bootcamp/titanic_cleaned_last.csv')
+df = pd.read_csv('titanic_cleaned_last.csv')
 df = df.dropna(subset=['Embarked'])
 
 
