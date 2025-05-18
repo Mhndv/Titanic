@@ -3,6 +3,8 @@
 
 This project is a data exploration dashboard built with **Streamlit** and **Plotly** to visualize insights from the Titanic dataset. The dashboard allows interactive filtering, dynamic visualizations, and maps the Titanic's historical route.
 
+#Try It:
+  https://explore-titanic.streamlit.app/
 ---
 
 ## 📌 Features
